@@ -1,0 +1,4 @@
+#Environment file with your discord bot token
+.env
+#Npm package module
+/node_modules
